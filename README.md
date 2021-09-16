@@ -1,11 +1,7 @@
 # pygame-car-project
-car driving project
-
 
 import pygame, math, sys
 from pygame.locals import *
-
-
 pygame.display.set_caption("car driving")
 
 TURN_SPEED = 7
